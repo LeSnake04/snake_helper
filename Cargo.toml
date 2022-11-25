@@ -1,0 +1,16 @@
+[package]
+name = "snake_helper"
+version = "0.1.0"
+edition = "2021"
+authors = ["LeSnake <dev.lesnake@posteo.de>"]
+repository = "https://github.com/LeSnake04/snake_helper"
+publish = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+unwrap_or = "1.0.0"
+
+[dev-dependencies]
+log = "0.4.17"
+miette = "5.5.0"
