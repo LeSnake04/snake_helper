@@ -6,6 +6,7 @@ license = "AGPL-3.0"
 authors = ["LeSnake <dev.lesnake@posteo.de>"]
 repository = "https://github.com/LeSnake04/snake_helper"
 publish = true
+description = "My personal collection of helper scripts"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
