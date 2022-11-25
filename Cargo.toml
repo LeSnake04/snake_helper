@@ -2,6 +2,7 @@
 name = "snake_helper"
 version = "0.1.0"
 edition = "2021"
+license = "AGPL-3.0"
 authors = ["LeSnake <dev.lesnake@posteo.de>"]
 repository = "https://github.com/LeSnake04/snake_helper"
 publish = true
